@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Gugi&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@500&display=swap');
+
+//Variables de Colores
+
+    $purple: #403D52;
+    $pink: #FC0CA4;
+    $grey: #ADADAD;
+    $green: #42c7ce;
+    $gradient: linear-gradient(90deg, var($purple), var($pink));
+
+
+*{
+    font-family: 'Gugi', cursive;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none; border:none;
+}
+
+*::selection{
+    background: $pink;
+    color:#fff;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+body{
+    background:#f9f9f9;
+}
+
+section{
+    min-height: 100vh;
+    padding:0 9%;
+    padding-top: 7.5rem;
+    padding-bottom: 2rem;
+}
+
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    padding:.8rem 3rem;
+    border-radius: 5rem;
+    background: $purple;
+    font-size: 1.7rem;
+    color:#fff;
+    cursor: pointer;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    transition: all .3s linear;
+}
+
+.btn-icons{
+    display: inline-block;
+    margin-top: 1rem;
+    padding:.8rem 3rem;
+    background:white;
+    font-size: 2.5rem;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+    background: $pink;
+}
+
+.heading{
+    text-align: center;
+    background:$pink;
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    padding:1rem;
+}
