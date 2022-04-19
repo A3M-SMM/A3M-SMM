@@ -13,7 +13,7 @@ Whoami!⚡
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/a3m.smm/](https://www.instagram.com/a3m.smm/)
 
-- 💬 Ask me about **html, css,bootstrap**
+- 💬 Ask me about **html, css, bootstrap**
 
 - 📫 How to reach me **a3m-smm@gmail.com**
 
