@@ -1,6 +1,6 @@
 Whoami!⚡
 
-<h1 align="center">Hi 👋, I'm A3M Social Media Marketing</h1>
+<h1 align="center">Hi 👋, I'm A3M Social Media Manager</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 I’m currently working on **Telecom**
