@@ -15,7 +15,7 @@ Whoami!⚡
 
 - 💬 Ask me about **html, css, bootstrap**
 
-- 📫 How to reach me **a3m-smm@gmail.com**
+- 📫 How to reach me **a3m.smm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
